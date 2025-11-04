@@ -5,7 +5,7 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "bookmark-db"
-database_id = "b952aec0-20bb-4355-b720-77ef2d5d0e93"
+database_id = "91b9ac11-4d94-45b6-9116-91584456018e"
 
 # 注意：敏感的环境变量（如密码、密钥）应该在 Cloudflare Pages Dashboard 中设置
 # 而不是写在这个配置文件中！
